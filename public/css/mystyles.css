@@ -1,0 +1,25 @@
+.loader {
+    border: 1px solid;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    background: url("../imgs/123.gif") center / 50px no-repeat;
+}
+.body {
+    padding-top:10px;
+}
+
+.middle{
+    margin: auto;
+    border: 3px solid green;
+    padding: 10px;
+    align-content: center;
+    text-align: center;
+}
+.btn
+{
+    width:100px;
+}
